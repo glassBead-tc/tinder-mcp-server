@@ -35,6 +35,7 @@ yarn-error.log*
 # Testing
 coverage/
 .nyc_output/
+integration-test-config.js
 
 # Temporary files
 tmp/
@@ -53,9 +54,23 @@ temp/
 # Debug files
 .node_repl_history
 
+# Scripts
+*.sh
+run-*.js
+build-*.js
+test-*.js
+
+# Documentation and reports
+*-summary.md
+*-report.md
+*-specification.md
+*-review.md
+integration-testing-README.md
+
 # Embedded git repositories
 tinder-api-documentation/
 
 # Misc
 .DS_Store
 Thumbs.db
+.roommodes
