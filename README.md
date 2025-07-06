@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/glassbead-tc-tinder-mcp-server-badge.png)](https://mseep.ai/app/glassbead-tc-tinder-mcp-server)
+
 # Tinder API MCP Server
 
 A Model Context Protocol (MCP) server for the Tinder API, implemented in TypeScript.
